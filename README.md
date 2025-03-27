@@ -41,7 +41,8 @@ It Prints the state of the Rubik cube after certian operations.
     
 5. The result must looks like below
 
-   ![image](https://github.com/user-attachments/assets/341f900e-905e-4b24-979e-0a9c5c89ba8d)
+   ![image](https://github.com/user-attachments/assets/7c4b6a51-5c17-43c0-b753-418843f379db)
+
 
 
 7. Setup
