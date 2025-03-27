@@ -1,4 +1,4 @@
-# Rubik cube rotation
+# Rubik cube rotation API
 
 Program that simulates a Rubik’s cube. The aim of the program is not to solve the cube, but to simulates a Rubik’s cube rotation.
 It Prints the state of the Rubik cube after certian operations.
