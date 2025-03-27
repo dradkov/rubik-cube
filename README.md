@@ -52,9 +52,11 @@ It Prints the state of the Rubik cube after certian operations.
     ![image](https://github.com/user-attachments/assets/616e5507-652f-4aa6-9e47-f505f42446ef)
 
   - Click on "Try it out"
+    
     ![image](https://github.com/user-attachments/assets/334db4a9-fbc0-44c3-8220-282ed7645cfb)
 
   - Click on "Execute"
+    
     ![image](https://github.com/user-attachments/assets/c01c4ef8-9847-49bd-9681-547dbcd5e702)
 
 
